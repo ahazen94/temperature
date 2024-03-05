@@ -1,0 +1,25 @@
+body{
+    font-family: arial;
+}
+
+.btn{
+    display: inline-block;
+    font-size: 20px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border: none;
+    padding: 5px;
+    width: 200px;
+}
+
+#results{
+    font-size: 32px;
+}
+
+.user{
+    color: blue;
+}
+
+.computer{
+    color: gray;
+}
